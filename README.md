@@ -1,5 +1,5 @@
 # Basic Vagrant Box  - LAMP - Virtual Machine
-A basic Vagrant Development Environment to use as a starting place.
+A basic Vagrant development box.
 
 This is a pretty bare bones implementation that allows for further customization.There are a couple of nice features included:
 - It will automatically set up your git account(s)
