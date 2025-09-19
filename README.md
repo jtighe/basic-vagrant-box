@@ -1,3 +1,5 @@
+# Outdated, do not use
+
 # Basic Vagrant Box  - LAMP - Virtual Machine
 A basic Vagrant development box.
 
@@ -99,6 +101,7 @@ fi
 ## Notes
 
 ## Change Log
+
 
 
 
